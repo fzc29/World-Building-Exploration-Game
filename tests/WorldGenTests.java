@@ -27,9 +27,4 @@ public class WorldGenTests {
         TETile[][] tilesLoad = AutograderBuddy.getWorldFromInput("LWWWDDD");
 
     }
-
-    @Test
-    public void basicSaveTest() {
-        // TODO: write a test that calls getWorldFromInput twice, with "n123swasd:q" and with "lwasd"
-    }
 }
